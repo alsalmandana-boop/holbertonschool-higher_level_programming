@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """Update the name of State with ID 2 using SQLAlchemy."""
 
 import sys
