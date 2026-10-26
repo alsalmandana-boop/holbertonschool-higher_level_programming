@@ -42,5 +42,4 @@ def fetch_and_save_posts():
             )
             writer.writeheader()
             writer.writerows(data)
-            )
 
