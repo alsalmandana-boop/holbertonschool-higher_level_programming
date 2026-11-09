@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Define the City model for the states and cities relationship."""
 

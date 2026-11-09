@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Create California and San Francisco using SQLAlchemy relationships."""
 
